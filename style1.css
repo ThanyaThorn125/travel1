@@ -1,0 +1,33 @@
+h1{
+    text-align: right;
+    font-weight: 250;
+    color: maroon;
+    font-size: 50px;
+    font-family:monospace;
+}
+
+p{
+    border-style:groove;
+    border-color:crimson;
+    border-width:0.8rex;
+}
+img{
+    width: 400px ;
+    height: 120x;
+    margin-top: 20px;
+    margin-left: 15px;  
+    border-radius: 10px;
+    position:relative;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(121, 119, 47);
+}
+hr{
+    color: maroon;
+}
+.pic{
+    width: 25px;
+    position: absolute;
+    left: 0px;
+}

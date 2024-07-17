@@ -1,0 +1,46 @@
+.icon{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 1000;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: gold;
+}
+.back{
+    width: 25px;
+    left: 0%;
+}
+.bg{
+    background-color:rgb(26, 32, 37);
+}
+hr{
+    width: 500pt;
+}
+.p1{
+    margin-top: 50px;
+    color: aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    position:absolute;
+    text-align: left;
+}
+.img1{
+    width: 350px;
+    border-style:outset;
+    border-color: gold;
+    margin-top: 50px;
+    display: block;   
+    margin-right: auto;  
+    margin-left: auto;   
+}
+
+.img2{
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 55px;
+
+    width: 300px;
+    border: 5px;
+    border-style:solid;
+    color:white;
+    margin-bottom: 15px;
+
+}
